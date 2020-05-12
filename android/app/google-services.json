@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "216472541707",
+    "firebase_url": "https://social-network-app-bc3a1.firebaseio.com",
+    "project_id": "social-network-app-bc3a1",
+    "storage_bucket": "social-network-app-bc3a1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:216472541707:android:74a4b4705fb3ef6917850e",
+        "android_client_info": {
+          "package_name": "com.example.flutter_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "216472541707-4odudg4244fqa49c7cmdb4vcsbnu2m6d.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_app",
+            "certificate_hash": "5a98ea871bdde5b0bc47de3a87dcdb2de8d03a45"
+          }
+        },
+        {
+          "client_id": "216472541707-03upgml2k7bccamb516eojgpqh3qts6q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-jbO_UDUNUSKukn7H19tYr46y14u6kmY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "216472541707-03upgml2k7bccamb516eojgpqh3qts6q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter_app/Pages/HomePage.dart';
 
 void main() => runApp(MyApp());
 
@@ -15,14 +16,7 @@ class MyApp extends StatelessWidget {
         primarySwatch: Colors.grey,
         accentColor:  Colors.black
       ),
-      home: Scaffold(
-        appBar: AppBar(
-          title: Text('Welcome to first flutter demo',style: TextStyle(color: Colors.white,fontSize: 20.0,fontWeight: FontWeight.bold),),
-        ),
-        body: Center(
-          child: Text('Hello World',style: TextStyle(color: Colors.white  , fontSize: 30.0),),
-        ),
-      ),
+      home: HomePage()
     );
   }
 }
